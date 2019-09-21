@@ -6,6 +6,7 @@ import numpy as np
 from rnn_utils import *
 
 
+
  ## 1 - Forward propagation for the basic Recurrent Neural Network
 
 
