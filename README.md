@@ -1,5 +1,7 @@
 # RNN-LSTM-from-scratch
 Implementation of a RNN and a LSTM from scratch - using numpy only. No deep learning framework used! This exercise set me up with a solid foundation for future deep learning research (an area that I am eager to continue exploring)
+![](images/cell.png)
+![](images/network.png)
 # learning goals:
 1. I had the opportunity to understand a Recurrent Neural Netowrk in depth. I got the chance to understand all the low-level components that make up this network.
 2. I fully understood what goes on behind the scenes when I implement a RNN in deep learning frameworks (such as Tensorflow, Keras, etc)
